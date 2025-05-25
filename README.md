@@ -1,6 +1,6 @@
 # 🛡️ IndySafe
 
-**IndySafe** is a modern, fast, and scalable web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. Designed with performance and maintainability in mind, IndySafe leverages cutting-edge frontend tooling and AI-assisted development via **Bolt** to accelerate development and ensure consistency.
+**IndySafe** is a modern, fast, and scalable web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. Designed with performance and maintainability in mind, IndySafe leverages cutting-edge frontend tooling.
 
 ---
 
